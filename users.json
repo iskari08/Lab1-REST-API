@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "companyName": "Apple",
+      "employeeName": [
+        "Betty"
+      ],
+      "positions": [
+        "Software Engineer"
+      ],
+      "location": "Cupertino, California"
+    },
+    {
+      "id": 2,
+      "companyName": "Microsoft",
+      "employeeName": [
+        "Augustine"
+      ],
+      "positions": [
+        "Full-stack Developer"
+      ],
+      "location": "Redmond, Washington"
+    },
+    {
+      "id": 3,
+      "companyName": "Google",
+      "employeeName": [
+        "Ynez"
+      ],
+      "positions": [
+        "CEO"
+      ],
+      "location": "Googleplex"
+    },
+    {
+      "companyName": "Amazon",
+      "employeeName": [
+        "John"
+      ],
+      "position": [
+        "Marketing Manager"
+      ],
+      "location": "Seattle",
+      "id": 5
+    }
+  ]
+}
